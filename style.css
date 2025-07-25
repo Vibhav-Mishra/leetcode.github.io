@@ -101,8 +101,8 @@ h4 {
 }
 
 .card {
-  border: 2px solid rgb(15, 177, 0);
-  background-color: rgb(254, 238, 206);
+  /* border: 1px solid rgb(15, 177, 0); */
+  background-color: rgb(43, 43, 43);
   padding: 10px;
   width: 40%;
   max-width: 290px;
